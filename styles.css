@@ -43,6 +43,24 @@ form input {
   font-size: 1rem;
   padding: 10px;
 }
+#email {
+  height: 55px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  font-size: 1rem;
+  padding: 10px;
+}
+#password {
+  height: 55px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  font-size: 1rem;
+  padding: 10px;
+}
 form input:focus {
   outline: none;
   border-color: #1877f2;
