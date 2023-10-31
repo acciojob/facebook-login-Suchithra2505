@@ -55,9 +55,10 @@ form input:focus {
 	padding:10px;
 	color:white;
 }
-button{
+.signup{
 	height:100%;
 	width:100%;
 	background-color:#42b72a;
 	color:white;
+	border-radius:5px;
 }
