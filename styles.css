@@ -30,10 +30,11 @@ a{
 	text-decoration:none;
 	color:white;
 }
-.forgot{
+a.forgot{
 	text-decoration:none;
 	color:#1877f2;
 }
+
 form input {
   height: 55px;
   width: 100%;
@@ -73,9 +74,9 @@ form input:focus {
 	padding:10px;
 	color:white;
 }
-.signup{
-	height:100%;
-	width:100%;
+a.signup {
+	height:100hv;
+	width:100wv;
 	background-color:#42b72a;
 	color:white;
 	border-radius:5px;
