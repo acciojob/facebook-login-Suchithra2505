@@ -24,7 +24,9 @@ display:flex;
   border: 1px solid #dddfe2;
   border-radius: 8px;
 }
-
+.left p{
+	
+}
 .left img {
   width: 120px;
   height: auto;
@@ -68,7 +70,7 @@ display:flex;
   text-align: center;
 }
 
-.left p {
+.create-account p {
   margin-bottom: 10px;
 }
 
